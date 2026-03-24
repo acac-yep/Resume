@@ -29,10 +29,10 @@
     right: 2cm,
   ),
   // 如不需要照片，注释下面三行并取消 header-center 注释
-  // header-center: true,
-  photograph: "profile.jpg",
-  photograph-width: 10em,
-  gutter-width: 2em,
+  header-center: true,
+  //photograph: "profile.jpg",
+  //photograph-width: 10em,
+  //gutter-width: 2em,
 )[
   = 王子涵
 
