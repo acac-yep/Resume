@@ -14,7 +14,6 @@
 #let fa-phone            = icon("icons/fa-phone.svg")
 #let fa-wrench           = icon("icons/fa-wrench.svg")
 #let fa-work             = icon("icons/fa-work.svg")
-#let fa-lightbulb        = icon("icons/fa-lightbulb.svg")
 
 // ──────────────────────────────────────────
 // 头部
