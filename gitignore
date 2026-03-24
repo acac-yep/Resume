@@ -1,0 +1,11 @@
+# Typst 编译缓存
+.typst/
+
+# 本地编译生成的 PDF（由 Actions 自动发布，不需要提交）
+resume.pdf
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
