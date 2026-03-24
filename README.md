@@ -8,51 +8,6 @@
 
 👉 [点击此处下载最新版简历](../../releases/latest)
 
----
-
-## 🛠️ 本地编辑（推荐）
-
-**环境准备（只需一次）：**
-
-1. 安装 [VS Code](https://code.visualstudio.com/)
-2. 安装插件：[Tinymist Typst](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist)
-3. 安装 [Typst CLI](https://github.com/typst/typst/releases)（可选，用于命令行编译）
-
-**日常使用：**
-
-```bash
-# 克隆仓库
-git clone https://github.com/acac-yep/resume.git
-cd resume
-
-# 用 VS Code 打开
-code .
-```
-
-- 打开 `resume.typ`，按 `Ctrl+K V` 预览
-- 点击源码顶部 `Export PDF` 导出
-- 修改后 `git push`，Actions 自动生成 PDF 并更新 Release
-
-**命令行编译：**
-
-```bash
-typst compile resume.typ resume.pdf
-```
-
----
-
-## ✏️ 如何更新简历内容
-
-只需编辑 `resume.typ`，主要结构如下：
-
-| 区块 | 说明 |
-|------|------|
-| 头部 `= 王子涵` | 姓名、联系方式、个人简介 |
-| `== 教育背景` | 学校、专业、GPA |
-| `== 科研与项目经历` | 每个项目用 `#item(...)` 开头 |
-| `== 获奖情况` | 每条奖项用 `#item(...)` |
-| `== 专业技能` | 用 `#sidebar(...)` 排版 |
-| `== 学生工作` | 用 `#sidebar(...)` 排版 |
 
 **添加新项目的模板：**
 
