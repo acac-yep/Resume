@@ -179,16 +179,12 @@
 == #fa-wrench 专业技能
 
 #sidebar(with-line: false, side-width: 12%)[
-  *编程语言*
-
   *机器学习*
 
   *工具链*
 
   *外语*
 ][
-  Python（熟练）、C/C++（掌握）
-
   学习了CS229、CS230等课程，对机器学习、深度学习有一定的了解
 
   Git / GitHub、Linux、Jupyter Notebook
