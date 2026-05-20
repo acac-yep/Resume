@@ -91,7 +91,7 @@
 #item(
   [ *AI Agent 自动化报告系统* ],
   [ *横向项目* ],
-  date[ 2025 年 03 月 – 2025 年 06 月 ],
+  date[ 2025 年 08 月 – 2025 年 12 月 ],
 )
 #tech[ Python, Web Scraping, LLM, Agent ]
 
@@ -107,7 +107,7 @@
     [ *房价预测区间估计* ],
   ),
   [ *Kaggle 竞赛（个人）* ],
-  date[ 2025 年 07 月 – 2025 年 11 月 ],
+  date[ 2025 年 07 月 – 2025 年 08 月 ],
 )
 #tech[ Python, LightGBM, GBDT, CQR, BayesSearchCV, GPU 加速 ]
 
@@ -122,7 +122,7 @@
 #item(
   [ *基于迁移学习的音频事件识别与分类* ],
   [ *课程研究报告（科学与社会研讨课）* ],
-  date[ 2024 年 09 月 – 2024 年 12 月 ],
+  date[ 2024 年 09 月 – 2025 年 05 月 ],
 )
 #tech[ Python, VGG-16, Keras, librosa, 迁移学习 ]
 
