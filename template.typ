@@ -32,9 +32,9 @@
   photograph-width: 0em,
   gutter-width: 0em,
   header-center: false,
-  header: none,
-  introduction: none,
-  body: none,
+  header,
+  introduction,
+  body,
 ) = {
   // 页边距设定
   set page(paper: "a4", numbering: "1", margin: margin)
